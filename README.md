@@ -1,2 +1,1 @@
-# .github
-WordPress and WooCommerce Plugins
+# WordPress and WooCommerce Plugins
