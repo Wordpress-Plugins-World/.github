@@ -19,10 +19,6 @@ A powerful security plugin that strengthens WordPress login security, protecting
 - **Regular Updates**: Our plugins are continually updated with new features and improvements.
 - **Excellent Support**: We provide responsive support to help you with any issues you may encounter.
 
-## 📞 Get in Touch
-
-For any questions or support requests, feel free to reach out to us via [our contact page](#).
-
 ---
 
 Thank you for exploring our plugins! 🚀 We hope our tools help you build and manage your WordPress sites with ease.
